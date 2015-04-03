@@ -1,0 +1,6 @@
+[submodule "src/Chart.js"]
+	path = src/Chart.js
+	url = https://github.com/nnnick/Chart.js.git
+[submodule "yii2-chartjs.wiki"]
+	path = yii2-chartjs.wiki
+	url = git@github.com:SteveSimpson/yii2-chartjs.wiki.git
